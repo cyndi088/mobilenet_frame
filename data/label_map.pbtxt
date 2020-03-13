@@ -1,0 +1,58 @@
+item {
+  id: 1
+  name: 'cell_phone'
+}
+
+item {
+  id: 2
+  name: 'hat'
+}
+
+item {
+  id: 3
+  name: 'no_hat'
+}
+item {
+  id: 4
+  name: 'mask'
+}
+
+item {
+  id: 5
+  name: 'no_mask'
+}
+
+item {
+  id: 6
+  name: 'can_open'
+}
+
+item {
+  id: 7
+  name: 'can_close'
+}
+
+item {
+  id: 8
+  name: 'fire'
+}
+
+item {
+  id: 9
+  name: 'no_fire'
+}
+
+item {
+  id: 10
+  name: 'smoke'
+}
+
+item {
+  id: 11
+  name: 'hat_black'
+}
+
+item {
+  id: 12
+  name: 'mask_transparent'
+}
